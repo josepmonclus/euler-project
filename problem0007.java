@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class problem0007 {
+public class Problem0007 {
 
     private static List<Integer> primes = new ArrayList<>();
 

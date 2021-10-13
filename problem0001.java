@@ -3,7 +3,7 @@
  * 
  * @author Josep Monclus
  */
-public class problem0001 {
+public class Problem0001 {
     public static void main(String[] args) {
         
         int n = 1000;

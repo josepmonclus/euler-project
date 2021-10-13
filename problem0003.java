@@ -7,7 +7,7 @@ import java.util.List;
  * 
  * @author Josep Monclus
  */
-public class problem0003 {
+public class Problem0003 {
     
     private static List<BigInteger> primes = new ArrayList<>();
     

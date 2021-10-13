@@ -1,4 +1,4 @@
-public class problem0006 {
+public class Problem0006 {
     
     public static void main(String[] args) {
         int maxValue = 100;

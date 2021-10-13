@@ -2,7 +2,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
-public class problem0010 {
+public class Problem0010 {
 
     private static List<Integer> primes = new ArrayList<>();
     public static void main(String[] args) {

@@ -1,4 +1,9 @@
-public class problem0015 {
+/**
+ * Problem url: https://projecteuler.net/problem=15
+ * 
+ * @author Josep Monclus
+ */
+public class Problem0015 {
     public static void main(String[] args) {
         
         int n = 2;

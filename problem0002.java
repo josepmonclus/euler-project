@@ -6,7 +6,7 @@ import java.util.List;
  * 
  * @author Josep Monclus
  */
-public class problem0002 {
+public class Problem0002 {
     public static void main(String[] args) {
         List<Integer> fibonacci = new ArrayList<>();
         fibonacci.add(1);

@@ -5,7 +5,7 @@ import java.math.BigInteger;
  * 
  * @author Josep Monclus
  */
-public class problem0014 {
+public class Problem0014 {
     public static void main(String[] args) {
         
         int nStart = 1000000;

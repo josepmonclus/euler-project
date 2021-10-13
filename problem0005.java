@@ -3,7 +3,7 @@
  * 
  * @author Josep Monclus
  */
-public class problem0005 {
+public class Problem0005 {
     public static void main(String[] args) {
         int maxMult = 20;
 

@@ -1,4 +1,4 @@
-public class problem0009 {
+public class Problem0009 {
     public static void main(String[] args) {
         int expectadValue = 1000;
 

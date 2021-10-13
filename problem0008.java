@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class problem0008 {
+public class Problem0008 {
     public static void main(String[] args) {
         String sNumber = ""
             + "73167176531330624919225119674426574742355349194934"
