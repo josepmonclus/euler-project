@@ -1,3 +1,8 @@
+/**
+ * Problem url: https://projecteuler.net/problem=1
+ * 
+ * @author Josep Monclus
+ */
 public class problem0001 {
     public static void main(String[] args) {
         

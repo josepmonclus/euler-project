@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Problem url: https://projecteuler.net/problem=2
+ * 
+ * @author Josep Monclus
+ */
 public class problem0002 {
     public static void main(String[] args) {
         List<Integer> fibonacci = new ArrayList<>();
