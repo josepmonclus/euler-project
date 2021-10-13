@@ -1,9 +1,13 @@
 import java.math.BigInteger;
 
+/**
+ * Problem url: https://projecteuler.net/problem=14
+ * 
+ * @author Josep Monclus
+ */
 public class problem0014 {
     public static void main(String[] args) {
-        System.out.println("Starting...");
-
+        
         int nStart = 1000000;
         int nMax = 0, kMax = 0;
 
@@ -12,26 +16,21 @@ public class problem0014 {
             int k = 1;
 
             while (n.compareTo(BigInteger.valueOf(1)) != 0) {
-                //System.out.println(i + " - " + n);
-                if(n.mod(BigInteger.valueOf(2)).compareTo(BigInteger.valueOf(0)) == 0) { //odd
+                if(n.mod(BigInteger.valueOf(2)).compareTo(BigInteger.valueOf(0)) == 0) { // even
                     n = n.divide(BigInteger.valueOf(2));
-                } else { // even
+                } else { // odd
                     n = n.multiply(BigInteger.valueOf(3)).add(BigInteger.valueOf(1));
                 }
 
                 k++;
             }
 
-            System.out.println("n = " + i + " - k = " + k);
-
             if(k > kMax) {
-                System.out.println("MAX!!");
                 nMax = i;
                 kMax = k;
             }
         }
 
         System.out.println("n = " + nMax + " - k = " + kMax);
-        System.out.println("Finished!");
     }
 }
