@@ -3,6 +3,11 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Problem url: https://projecteuler.net/problem=10
+ * 
+ * @author Josep Monclus
+ */
 public class Problem0010 {
 
     private static List<Integer> primes = new ArrayList<>();

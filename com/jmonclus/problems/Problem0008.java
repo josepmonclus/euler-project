@@ -1,6 +1,11 @@
 package com.jmonclus.problems;
 import java.math.BigInteger;
 
+/**
+ * Problem url: https://projecteuler.net/problem=8
+ * 
+ * @author Josep Monclus
+ */
 public class Problem0008 {
     public static void main(String[] args) {
         String sNumber = ""

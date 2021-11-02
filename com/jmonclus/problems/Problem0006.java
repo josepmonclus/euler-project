@@ -1,4 +1,10 @@
 package com.jmonclus.problems;
+
+/**
+ * Problem url: https://projecteuler.net/problem=6
+ * 
+ * @author Josep Monclus
+ */
 public class Problem0006 {
     
     public static void main(String[] args) {

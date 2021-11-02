@@ -2,6 +2,11 @@ package com.jmonclus.problems;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Problem url: https://projecteuler.net/problem=7
+ * 
+ * @author Josep Monclus
+ */
 public class Problem0007 {
 
     private static List<Integer> primes = new ArrayList<>();

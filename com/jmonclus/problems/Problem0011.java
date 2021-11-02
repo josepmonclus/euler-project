@@ -1,4 +1,10 @@
 package com.jmonclus.problems;
+
+/**
+ * Problem url: https://projecteuler.net/problem=11
+ * 
+ * @author Josep Monclus
+ */
 public class Problem0011 {
     public static void main(String[] args) {
         int[][] matrix = {
