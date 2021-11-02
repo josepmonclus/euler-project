@@ -5,8 +5,6 @@ import java.util.List;
 
 public class Problem0012 {
 
-    private static List<BigInteger> primes = new ArrayList<>();
-
     public static void main(String[] args) {
         
         int n = 1;
