@@ -1,3 +1,4 @@
+package com.jmonclus.problems;
 import java.math.BigInteger;
 
 /**

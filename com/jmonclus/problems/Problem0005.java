@@ -1,3 +1,4 @@
+package com.jmonclus.problems;
 /**
  * Problem url: https://projecteuler.net/problem=5
  * 
