@@ -2,6 +2,11 @@ package com.jmonclus.problems;
 
 import java.math.BigDecimal;
 
+/**
+ * Problem url: https://projecteuler.net/problem=25
+ * 
+ * @author Josep Monclus
+ */
 public class Problem0025 {
     public static void main(String[] args) {
         int nDigits = 1000;
