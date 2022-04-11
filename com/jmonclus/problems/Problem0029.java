@@ -1,12 +1,9 @@
 package com.jmonclus.problems;
 
 import java.math.BigDecimal;
-import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
 
 /**
  * Problem url: https://projecteuler.net/problem=29
