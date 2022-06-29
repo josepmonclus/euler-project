@@ -1,6 +1,5 @@
 package com.jmonclus.problems;
 
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 /**
