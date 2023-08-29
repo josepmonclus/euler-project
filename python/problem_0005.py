@@ -1,10 +1,6 @@
 
 # Problem url: https://projecteuler.net/problem=5
 
-import time
-
-start = time.time()
-
 n = 1
 
 while True:
@@ -19,6 +15,3 @@ while True:
         break
     else:
         n += 1
-
-end = time.time()
-print(end - start)
